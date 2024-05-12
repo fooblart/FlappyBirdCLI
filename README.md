@@ -6,7 +6,7 @@ https://github.com/fooblart/FlappyBirdCLI/assets/147244800/937f2b67-b247-463e-8a
 
 install:
 ```console
-pip3 install pynput pillow --break-system-packages
+pip3 install pynput pillow --break-system-packages && https://github.com/fooblart/FlappyBirdCLI
 ```
 run:
 ```console
