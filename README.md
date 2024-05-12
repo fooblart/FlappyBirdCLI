@@ -12,3 +12,9 @@ run:
 ```console
 python3 main.py
 ```
+
+## Controls:
+
+- ctrl to pause
+- esc to quit
+- space to fly up
